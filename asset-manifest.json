@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DevelopsToday/static/css/main.f1159ab6.chunk.css",
-    "main.js": "/DevelopsToday/static/js/main.bdac8828.chunk.js",
-    "main.js.map": "/DevelopsToday/static/js/main.bdac8828.chunk.js.map",
+    "main.js": "/DevelopsToday/static/js/main.55cd0fac.chunk.js",
+    "main.js.map": "/DevelopsToday/static/js/main.55cd0fac.chunk.js.map",
     "runtime~main.js": "/DevelopsToday/static/js/runtime~main.53924313.js",
     "runtime~main.js.map": "/DevelopsToday/static/js/runtime~main.53924313.js.map",
     "static/js/2.39c9e39b.chunk.js": "/DevelopsToday/static/js/2.39c9e39b.chunk.js",
     "static/js/2.39c9e39b.chunk.js.map": "/DevelopsToday/static/js/2.39c9e39b.chunk.js.map",
     "index.html": "/DevelopsToday/index.html",
-    "precache-manifest.ac03de6e9ed41242a4a8b0f4077c7b9a.js": "/DevelopsToday/precache-manifest.ac03de6e9ed41242a4a8b0f4077c7b9a.js",
+    "precache-manifest.c0122f2ff870fd3c71d3bc1e9daa7d83.js": "/DevelopsToday/precache-manifest.c0122f2ff870fd3c71d3bc1e9daa7d83.js",
     "service-worker.js": "/DevelopsToday/service-worker.js",
     "static/css/main.f1159ab6.chunk.css.map": "/DevelopsToday/static/css/main.f1159ab6.chunk.css.map"
   }
