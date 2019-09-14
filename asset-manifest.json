@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DevelopsToday/static/css/main.f1159ab6.chunk.css",
+    "main.js": "/DevelopsToday/static/js/main.28424be9.chunk.js",
+    "main.js.map": "/DevelopsToday/static/js/main.28424be9.chunk.js.map",
+    "runtime~main.js": "/DevelopsToday/static/js/runtime~main.53924313.js",
+    "runtime~main.js.map": "/DevelopsToday/static/js/runtime~main.53924313.js.map",
+    "static/js/2.39c9e39b.chunk.js": "/DevelopsToday/static/js/2.39c9e39b.chunk.js",
+    "static/js/2.39c9e39b.chunk.js.map": "/DevelopsToday/static/js/2.39c9e39b.chunk.js.map",
+    "index.html": "/DevelopsToday/index.html",
+    "precache-manifest.d440cf780eb637913154d365e82bacd6.js": "/DevelopsToday/precache-manifest.d440cf780eb637913154d365e82bacd6.js",
+    "service-worker.js": "/DevelopsToday/service-worker.js",
+    "static/css/main.f1159ab6.chunk.css.map": "/DevelopsToday/static/css/main.f1159ab6.chunk.css.map"
+  }
+}
